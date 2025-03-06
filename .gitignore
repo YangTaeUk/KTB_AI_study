@@ -1,0 +1,7 @@
+# .env 파일
+.env
+
+node_modules/
+pytorchtuto/data/
+
+vrctorstore_test/__pycache__/
